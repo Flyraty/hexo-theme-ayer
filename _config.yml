@@ -1,6 +1,10 @@
 # 侧边栏菜单
 menu:
   主页: /
+  旅行: /tags/travel
+  美食: /tags/food
+  游乐场: /tags/playground
+  相册: https://timemachine-xialuo.lofter.com/
 
 # 站点次标题和打字动效
 # https://github.com/mattboldt/typed.js
